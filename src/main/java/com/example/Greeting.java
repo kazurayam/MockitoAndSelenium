@@ -1,4 +1,4 @@
-package my;
+package com.example;
 
 public class Greeting {
 

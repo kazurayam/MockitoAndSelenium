@@ -1,8 +1,10 @@
-package my;
+package com.example;
 
 import static org.assertj.core.api.Assertions.*;
 
 import org.junit.Test;
+
+import com.example.Greeting;
 
 public class GreetingTest {
 
