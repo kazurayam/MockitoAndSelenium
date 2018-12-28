@@ -3,6 +3,12 @@ package com.example;
 import com.example.dao.FruitsDao;
 import com.example.service.FruitsService;
 
+/**
+ * https://qiita.com/hirotatsuuu/items/586e1f2f6bdd408dbafc
+ * 
+ * @author kazurayam
+ *
+ */
 public class FruitsMain {
 
     public static void main(String[] args) {
